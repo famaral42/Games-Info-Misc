@@ -46,18 +46,18 @@
   - **Escudo de Fogo (*Flame Shield*):** Imunidade a fogo/lava e habilita *dash* horizontal no ar (duplo pulo).
   - **Escudo Elétrico (*Lightning Shield*):** Imunidade a eletricidade, atrai anéis próximos (magnetismo) e habilita pulo duplo vertical.
   - **Escudo de Água (*Bubble Shield*):** Permite respirar infinitamente debaixo d'água e habilita o quique vertical (*bounce*) ao apertar pulo no ar.
-- Esmeraldas:** 7 Esmeraldas do Caos (estágios bônus *Blue Sphere* acessados por anéis gigantes ocultos nas fases). Libera **Super Sonic** (Tails não vira *Super* neste jogo isolado).
-- Modo Extra:** *Competition Mode* (corrida para 2 jogadores em 5 pistas exclusivas).
+- **Esmeraldas:** 7 Esmeraldas do Caos (estágios bônus *Blue Sphere* acessados por anéis gigantes ocultos nas fases). Libera **Super Sonic** (Tails não vira *Super* neste jogo isolado).
+- **Modo Extra:** *Competition Mode* (corrida para 2 jogadores em 5 pistas exclusivas).
 
 ## Sonic & Knuckles
-- Lançamento:** 18/10/1994 (Mundial).
-- Personagens jogáveis:** Sonic ou Knuckles the Echidna (não há Tails nem sistema de *save* no cartucho isolado).
-- Mecânicas e Poderes (Knuckles):**
-  - Planar (*Glide*):** Segurar o botão de pulo no ar faz Knuckles planar horizontalmente.
-  - Escalar (*Climb*):** Ao tocar uma parede enquanto plana, agarra-se a ela e sobe/desce.
-  - Quebrar paredes:** Destrói blocos e paredes específicas no contato, abrindo rotas exclusivas e lutando contra chefes diferentes/mais difíceis.
-  - Limitação:** Pulo ligeiramente mais baixo que o de Sonic e não utiliza os poderes ativos dos escudos elementais (apenas a proteção elemental passiva).
-- Esmeraldas:** 7 Esmeraldas do Caos (libera **Super Sonic** ou **Super Knuckles**).
+- **Lançamento:** 18/10/1994 (Mundial).
+- **Personagens jogáveis:** Sonic ou Knuckles the Echidna (não há Tails nem sistema de *save* no cartucho isolado).
+- **Mecânicas e Poderes (Knuckles):**
+  - **Planar (*Glide*):** Segurar o botão de pulo no ar faz Knuckles planar horizontalmente.
+  - **Escalar (*Climb*):** Ao tocar uma parede enquanto plana, agarra-se a ela e sobe/desce.
+  - **Quebrar paredes:** Destrói blocos e paredes específicas no contato, abrindo rotas exclusivas e lutando contra chefes diferentes/mais difíceis.
+  - **Limitação:** Pulo ligeiramente mais baixo que o de Sonic e não utiliza os poderes ativos dos escudos elementais (apenas a proteção elemental passiva).
+- **Esmeraldas:** 7 Esmeraldas do Caos (libera **Super Sonic** ou **Super Knuckles**).
 
 ---
 
