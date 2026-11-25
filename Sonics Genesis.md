@@ -30,7 +30,7 @@
 - **Personagens jogáveis:** Sonic, Miles "Tails" Prower, ou ambos simultaneamente (Sonic + Tails).
 - **Mecânicas e Poderes:** Introdução do **Spin Dash** (agachar + botão de pulo para carregar aceleração parado).
   - **Tails:** Em modo cooperativo local (Controle 2) ou solo, possui exatamente a mesma física de corrida e pulo do Sonic no Mega Drive (o voo controlado pelo jogador só foi introduzido em *Sonic 3*). Quando controlado pela CPU, ele voa apenas para retornar à tela caso fique para trás.
-- **Itens:** Mesmos do *Sonic 1*.
+- **Itens:** Mesmos do `Sonic 1`.
 - **Esmeraldas:** 7 Esmeraldas do Caos (estágios bônus *half-pipe* acessados pelos *checkpoints* com 50+ anéis).
 - **Transformação:** **Super Sonic** (ao coletar as 7 esmeraldas e juntar 50 anéis no estágio, pula-se para ativar: invencibilidade, velocidade máxima e consumo de 1 anel por segundo). Tails não se transforma.
 - **Modo Extra:** Multiplayer competitivo em tela dividida (*2P VS*) com 4 fases.
@@ -63,13 +63,19 @@
 
 # 2. Combinações da Tecnologia *Lock-On* (*Sonic & Knuckles*)
 
-O cartucho de *Sonic & Knuckles* possui uma entrada superior para acoplar outros cartuchos de Mega Drive:
+O cartucho de `Sonic & Knuckles` possui uma entrada superior para acoplar outros cartuchos de Mega Drive:
+
+## Resumo do Sonic 3 Completo
+
+* **`Sonic 3` (Fases 1 a 6):** Contém a primeira metade da história (de *Angel Island* até *Launch Base*). Você joga apenas com Sonic e Tails, e o jogo termina de forma abrupta antes do desfecho real.
+* **`Sonic & Knuckles` (Fases 7 a 14):** Não é apenas um extra, mas a **continuação direta** da história (de *Mushroom Hill* até *The Doomsday*). Permite jogar a campanha principal com o Sonic ou uma campanha paralela com o Knuckles, mas *não possui sistema de save* nem permite jogar com o Tails.
+* **`Sonic 3 & Knuckles` (Tecnologia Lock-On):** Ao conectar os dois cartuchos, o jogo original planejado pelos criadores é restaurado, unindo todas as 14 fases em uma única campanha contínua.
 
 ## Sonic & Knuckles + Sonic 3 = *Sonic 3 & Knuckles*
-- Une os dois jogos na obra original completa planejada pela Sega (14 zonas contínuas).
+- Une os dois jogos na obra original **completa** planejada pela Sega (14 zonas contínuas).
 - Habilita o **sistema de save** para toda a campanha.
-- Permite jogar as fases de *Sonic 3* com **Knuckles** (com rotas alteradas) e as fases de *Sonic & Knuckles* com **Tails** ou **Sonic + Tails**.
-- **Super Esmeraldas:** Ao entrar nos anéis gigantes nas fases de *Sonic & Knuckles* já possuindo as 7 Esmeraldas do Caos, acessa-se o *Hidden Palace* para transformar as esmeraldas em **7 Super Esmeraldas**.
+- Permite jogar as fases de `Sonic 3` com **Knuckles** (com rotas alteradas) e as fases de `Sonic & Knuckles` com **Tails** ou **Sonic + Tails**.
+- **Super Esmeraldas:** Ao entrar nos anéis gigantes nas fases de `Sonic & Knuckles` já possuindo as 7 Esmeraldas do Caos, acessa-se o *Hidden Palace* para transformar as esmeraldas em **7 Super Esmeraldas**.
 - **Transformações máximas:**
   - **Hyper Sonic:** Invencível, mais rápido, respira debaixo d'água e executa um *dash* omnidirecional no ar (*Hyper Flash*) que destrói todos os inimigos na tela.
   - **Hyper Knuckles:** Invencível, mais rápido e cria um tremor que destrói todos os inimigos na tela ao colidir com uma parede em alta velocidade enquanto plana.
@@ -77,13 +83,13 @@ O cartucho de *Sonic & Knuckles* possui uma entrada superior para acoplar outros
 - Libera a fase final secreta **The Doomsday Zone** (exclusiva para *Super*/*Hyper Sonic*).
 
 ## Sonic & Knuckles + Sonic 2 = *Knuckles the Echidna in Sonic the Hedgehog 2*
-- Permite jogar a campanha completa de *Sonic 2* com **Knuckles** (mantendo sua física de planar, escalar e seu pulo menor — o que aumenta a dificuldade em certos chefes, como o *Death Egg Robot*).
+- Permite jogar a campanha completa de `Sonic 2` com **Knuckles** (mantendo sua física de planar, escalar e seu pulo menor — o que aumenta a dificuldade em certos chefes, como o *Death Egg Robot*).
 - Coletar as 7 esmeraldas libera **Super Knuckles**.
-- Mantém o progresso de anéis ao sair de um estágio bônus (diferente do *Sonic 2* original, onde zerava).
+- Mantém o progresso de anéis ao sair de um estágio bônus (diferente do `Sonic 2` original, onde zerava).
 
-## Sonic & Knuckles + Sonic 1 (ou qualquer outro jogo de Mega Drive) = *Blue Sphere*
+## Sonic & Knuckles + `Sonic 1` (ou qualquer outro jogo de Mega Drive) = *Blue Sphere*
 - Exibe a tela *"NO WAY! NO WAY!"*. Ao pressionar **A + B + C** simultaneamente, inicia o minigame **Blue Sphere**.
-- O código do cabeçalho da ROM do cartucho acoplado gera uma fase procedural (são mais de 134 milhões de fases possíveis; com *Sonic 1* acoplado, é possível jogar todas em sequência).
+- O código do cabeçalho da ROM do cartucho acoplado gera uma fase procedural (são mais de 134 milhões de fases possíveis; com `Sonic 1` acoplado, é possível jogar todas em sequência).
 
 ---
 
@@ -95,7 +101,7 @@ O cartucho de *Sonic & Knuckles* possui uma entrada superior para acoplar outros
 - **Mecânicas e Poderes:**
   - **Viagem no Tempo (*Time Travel*):** Placas espalhadas pelas fases marcam *Past* (Passado) ou *Future* (Futuro). Ao tocar uma placa e manter velocidade máxima por alguns segundos sem parar, Sonic viaja no tempo, alterando o layout, inimigos, paleta de cores e trilha sonora do ato.
   - **Super Peel-Out:** Segurar para cima + botão de pulo faz Sonic correr no lugar (formato de infinito nos pés) para disparar em velocidade maior que o *Spin Dash*, porém sem proteção contra inimigos (não rola em bola).
-  - **Spin Dash:** Presente, mas com física distinta do *Sonic 2* (carrega menos impulso inicial).
+  - **Spin Dash:** Presente, mas com física distinta do `Sonic 2` (carrega menos impulso inicial).
 - **Objetivo e Esmeraldas:** 7 **Time Stones** (estágios bônus em Mode 7 simulado, destruindo OVNIs antes do tempo acabar). Para obter o *Good Ending*, é necessário coletar as 7 *Time Stones* **ou** destruir os geradores de robôs (*Robot Transporters*) no passado de todos os atos. Não há *Super Sonic*.
 - **Diferenças de versão:** A trilha sonora japonesa/europeia (composta por Naofumi Hataya e Masafumi Ogata) foi totalmente substituída na versão norte-americana (composta por Spencer Nilsen e David Young), exceto nas músicas do Passado (que permanecem em áudio PCM).
 
